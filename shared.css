@@ -27,7 +27,7 @@ header li{
 }
 
 header a{
-    color:  rgb(59, 65, 65);
+    color:  rgb(26, 25, 5);
     text-decoration: none;
     font-size: 20px;
     padding: 12px;
@@ -45,9 +45,9 @@ header a{
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
 }  
 
-header ul a:hover{
+header nav a:hover{
     color: rgb(77, 77, 77);
-    background-color: rgb(255, 251, 0);
+    background-color: rgba(164, 164, 145, 0.479);
 }
 
 footer{
