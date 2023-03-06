@@ -1,6 +1,6 @@
 #hero{
     height: 800px;
-    background-image: url("/images/icons/places/world map.png");
+    background-image: url("images/icons/places/world map.png");
     background-position: center;
     background-size: cover;
     object-fit: cover;
